@@ -171,3 +171,14 @@ st.download_button(
     file_name="churn_filtered_data.csv",
     mime="text/csv"
 )
+st.markdown("## Business Impact")
+
+st.success("""
+This analysis helps telecom companies reduce churn by identifying high-risk customers
+and estimating revenue loss from customer attrition.
+
+Key outcome:
+- Identify churn drivers
+- Target high-risk segments
+- Improve retention strategy
+""")
