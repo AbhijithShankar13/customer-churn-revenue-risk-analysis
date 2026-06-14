@@ -41,3 +41,4 @@ The project identifies key churn drivers, analyses customer segments, and provid
 ## Outcome
 
 Identified high-risk customer segments and provided actionable recommendations focused on retention, contract optimisation and customer lifetime value improvement.
+### Live Demo: https://customer-churn-revenue-risk-analysis-8fhtdagukyzaghkfbyvhqt.streamlit.app/
